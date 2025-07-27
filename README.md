@@ -51,24 +51,28 @@ The project leverages Salesforce’s declarative and programmatic tools (Flows, 
 - ⏱️ Increased operational efficiency and staff productivity
 
 
-📌 Folder Structure
-WhatNext Vision Motors/
+## 📁 Folder Structure
+
+```plaintext
+📌 Folder Structure: WhatNext Vision Motors/
 ├── Data Management-Objects/
 ├── Data Management-Tabs/
 ├── Data Management-App Manager/
 ├── Data Management-Fields/
-│   ├── Vehicle
-│   ├── Vehicle_Order
-│   ├── Vehicle_Customer
-│   ├── Vehicle_Dealer
-│   ├── Vehicle_Test_Drive
-│   ├── Vehicle_Service_Request
+│   ├── Vehicle/
+│   ├── Vehicle_Order/
+│   ├── Vehicle_Customer/
+│   ├── Vehicle_Dealer/
+│   ├── Vehicle_Test_Drive/
+│   └── Vehicle_Service_Request/
 ├── Automation/
-│   ├── Auto_Assign_Dealer_flow
-│   └── Test_Drive_Reminder_flow
-└── Apex and Batch Class/
-   ├── VehicleOrderTriggerHandler.apxc
-   ├── VehicleOrderTrigger.apxt
-   ├── VehicleOrderBatch.apxc
-   └── VehicleOrderBatchScheduler.apxc
+│   ├── Auto_Assign_Dealer_flow/
+│   └── Test_Drive_Reminder_flow/
+├── Apex and Batch Class/
+│   ├── VehicleOrderTriggerHandler.apxc
+│   ├── VehicleOrderTrigger.apxt
+│   ├── VehicleOrderBatch.apxc
+│   └── VehicleOrderBatchScheduler.apxc
+
+```
 
