@@ -1,0 +1,22 @@
+# Salesforce DX and general metadata ignores
+node_modules/
+.idea/
+.sfdx/
+coverage/
+*.log
+*.tmp
+*.bak
+*.zip
+
+# Local Salesforce config
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
