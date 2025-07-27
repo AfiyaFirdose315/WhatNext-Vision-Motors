@@ -1,5 +1,5 @@
 
-# 🚗 WhatsNext Vision Motors – Salesforce CRM Automation Project
+# 🚗 WhatNext Vision Motors – Salesforce CRM Automation Project
 
 📘 Project Overview
 
@@ -52,7 +52,7 @@ The project leverages Salesforce’s declarative and programmatic tools (Flows, 
 
 
 📌 Folder Structure
-WhatsNext Vision Motors/
+WhatNext Vision Motors/
 ├── Data Management-Objects/
 │   ├── Vehicle
 │   ├── Vehicle_Order
